@@ -1,0 +1,55 @@
+{
+    "datos_personales": {
+        "nombre": "...",
+        "apellido": "...",
+        "direccion": {
+            "calle": "...",
+            "ciudad": "Formosa",
+            "codigo_postal": "3600"
+        },
+        "correo": "...",
+        "numero_telefono": [],
+        "genero":0,
+        "religion": "...",
+        "nacionalidad": {
+            "pais": "Argentina",
+            "provincia": "Formosa",
+            "ciudad": "Formosa"
+        }
+    },
+    "tutor": [{
+        "nombre": "...",
+        "apellido": "...",
+        "direccion": {
+            "calle": "...",
+            "ciudad": "Formosa",
+            "codigo_postal": "3600"
+        },
+        "correo": "...",
+        "numero_telefono": [],
+        "genero":1
+    }],
+    "informacion_academica": [{
+        "institucion": "...",
+        "desde": "...",
+        "hasta": "..."
+    }],
+    "experiencia_laboral": [{
+        "lugar": "...",
+        "desde": "...",
+        "hasta": "..."
+    }],
+    "conocimientos": [
+        "Word", "Excel", "HTML", "CSS", "Javascript", "PHP"
+    ],
+    "redes": [
+        "Facebook","Instagram","Twitter"
+    ],
+    "hobbies": [
+        "Videojuegos", "Música", "Películas"
+    ],
+    "alergias": [
+        "Ninguna"
+    ],
+    "regimen_alimentario": "Normal"
+}
